@@ -70,8 +70,11 @@ ETH :
 0,007 ETH seems fair
 
 If it works for me I will produce more reports with more details
-If you don't have an FTX account yet, you can join it by the following link
 
+If you don't have a Binance account yet, you can join it by the following link:
+https://www.binance.com/fr/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_001HI2OB0Y
+
+If you don't have a FTX account yet, you can join it by the following link:
 https://ftx.com/eu/referrals?gclid=CjwKCAjwp9qZBhBkEiwAsYFsbz0Yw11L0gPq4tQCIn44T1XUdnY7zioYG4xcvB7p4yEctwCTwngLxhoCSzoQAvD_BwE#a=142029820
 
 
