@@ -45,7 +45,7 @@ Easy Setup:
 I am not a financial advisor, this document is not a financial advisement. 
 Do not take anything as financial advice, ever.
 Make your own research
-This document has no official link with FTX
+These documents have no official links with any exchange and works thru API only
 
 ### Advisory General condition
 - I am not responsable of any trouble, any lost, any problem occured on you material and your computing.
@@ -80,6 +80,10 @@ If you don't have a FTX account yet, you can join it by the following link:
 https://ftx.com/eu/referrals?gclid=CjwKCAjwp9qZBhBkEiwAsYFsbz0Yw11L0gPq4tQCIn44T1XUdnY7zioYG4xcvB7p4yEctwCTwngLxhoCSzoQAvD_BwE#a=142029820
 
 
+### Safety first
+Of course this is not a scam!
+Never communicate your seed phrases, your API keys & Secrets to anybody, make sure to renew as frequently as you can.
+This docuemnt is open source : You are able to vue the developped code and check for any security issue.
 
 ### Thanks
 To the coummunity, to youtubers, to Satoshi N., my familly to support me during this work etc...
