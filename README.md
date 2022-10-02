@@ -3,6 +3,7 @@ Ultimate Free Notebooks to Manage your money in Binance "Spot & Earn Flexible" o
 
 Someone has to deal with it so I did it, now you can't ask "WERE IS MY MONEY?" anymore. 📊
 I developped it to work on Windows & Linux (ubuntu) platform.
+I choose Jupyter format on Python as it's a standard platform regarding data-science. It's allowing to generate Markdown files wich ay be a good report format.
 
 Last update : 02/10/2022
 - Pandas on Jupyter on Linux: pandas get a problem on this platform with sum() function, you just have to remove: "numeric_only=True", wich is required on other platform
