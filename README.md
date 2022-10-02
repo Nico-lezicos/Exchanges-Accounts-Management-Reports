@@ -1,13 +1,15 @@
 # Exchanges Accounts-Management-Reports
+
 Ultimate Free Notebooks to Manage your money in Binance "Spot & Earn Flexible" or FTX Accounts
 
 Someone has to deal with it so I did it, now you can't ask "WERE IS MY MONEY?" anymore. 📊
-I developped it to work on Windows & Linux (ubuntu) platform.
-I choose Jupyter format on Python as it's a standard platform regarding data-science. It's allowing to generate Markdown files wich ay be a good report format.
+* I developped it to work on Windows & Linux (ubuntu) platform.
+* I choose Jupyter format on Python as it's a standard platform regarding data-science. It's allowing to generate Markdown files wich ay be a good report format.
 
-Last update : 02/10/2022
-- I have added "Exchanges Account Management" to accumulate exchanges datas in a new document
-- Pandas on Jupyter on Linux: pandas get a problem on this platform with sum() function, you just have to remove: "numeric_only=True", wich is required on other platform
+Last update : 
+  02/10/2022:
+  - I have added "Exchanges Account Management" to accumulate exchanges datas in a new document
+  - Pandas on Jupyter on Linux: pandas get a problem on this platform with sum() function, you just have to remove: "numeric_only=True", wich is  required on other platform
 
 Some sample of what you'll get as a start
 
