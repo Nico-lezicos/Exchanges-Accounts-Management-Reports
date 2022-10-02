@@ -1,8 +1,9 @@
-# Binance - FTX : Accounts-Management-Reports
+# Exchanges Accounts-Management-Reports
 Ultimate Free Notebooks to Manage your money in Binance "Spot & Earn Flexible" or FTX Accounts
 
 Someone has to deal with it so I did it, now you can't ask "WERE IS MY MONEY?" anymore. 📊
 
+Last update : 02/10/2022
 
 Some sample of what you'll get as a start
 
