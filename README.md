@@ -2,8 +2,10 @@
 Ultimate Free Notebooks to Manage your money in Binance "Spot & Earn Flexible" or FTX Accounts
 
 Someone has to deal with it so I did it, now you can't ask "WERE IS MY MONEY?" anymore. 📊
+I developped it to work on Windows & Linux (ubuntu) platform.
 
 Last update : 02/10/2022
+- Pandas on Jupyter on Linux: pandas get a problem on this platform with sum() function, you just have to remove: "numeric_only=True", wich is required on other platform
 
 Some sample of what you'll get as a start
 
