@@ -65,14 +65,18 @@ This has taken some times of work, and make you save your time.
 
 Thank yo ufor your encouragement your support and your tips :
 
-BTC : `bc1qxpmknuwuy967l7x5ty9qs7jl7mtjuv5cs8cdq4`
+Bitcoin : 
+`bc1qxpmknuwuy967l7x5ty9qs7jl7mtjuv5cs8cdq4`
 
 0,0005 BTC seams fair
 
-ETH :
+Ethereum :
 `0xE328D3924B635dFFc719159b075086b324FFE931`
 
 0,007 ETH seems fair
+
+Poligon Matic:
+`0xE328D3924B635dFFc719159b075086b324FFE931`
 
 If it works for me I will produce more reports with more details
 
